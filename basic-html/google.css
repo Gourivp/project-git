@@ -1,0 +1,30 @@
+div {
+    text-align: center;
+    margin-top: 160px;
+}
+ul a {
+	list-style: none;
+    color: #666;
+}
+
+li {
+	display: inline;
+}
+ li a {
+	text-decoration: none;
+	padding-right: 10px;
+}
+ul {
+    text-align: right;
+    margin-top: 10px;
+    font-family: sans-serif;
+}
+ul a:hover {
+    color:blue;
+}
+input {
+    margin-top: 10px;
+    margin-left: 550px;
+    height: 40px;
+    width: 30%
+}
